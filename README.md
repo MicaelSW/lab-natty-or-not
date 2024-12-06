@@ -12,7 +12,8 @@ Solicitei ao Chat GPT a criação do curso com algumas indicações de ênfases.
 com o Synthesia foi gerado video com voz artificial e imagens.
 
 ## 🚀 Resultados
-Retornou com um guia resumido de como realizar o pedido de indenização com utilização de procurador.
+Retornou com um guia resumido de como realizar o pedido de indenização com utilização de procurador. E foi criado o curso com video e textos montados no Synthesia
+https://share.synthesia.io/c74c246d-6ce5-4c28-9f82-290b5c841ede
 
 ## 💭 Reflexão (Opcional)
 Desafio maior é encontrar as ferramentas mais apropriadas para cada parte da tarefa. 
